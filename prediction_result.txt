@@ -1,0 +1,3 @@
+Prediction: TB
+Probability(TB): 0.981883
+Model: model_normal3500_tb700.h5
